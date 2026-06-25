@@ -4,5 +4,5 @@ Open-vocabulary detection uses pre-trained CLIP (ViT-B/16) language-text aligned
 
 Examples:
 
-<img src="examples/1.png" width="48%"> <img src="examples/2.png" width="48%">
-<img src="examples/3.png" width="48%"> <img src="examples/4.png" width="48%">
+<img src="examples/3.png" width="48%"> <img src="examples/2.png" width="48%">
+<img src="examples/1.png" width="48%"> <img src="examples/4.png" width="48%">
